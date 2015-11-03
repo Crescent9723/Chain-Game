@@ -1,0 +1,8 @@
+AIBoard, AIHole, AILogic, Board, Settings - Ian
+BoardPane, GameBoard, GridPane, PegCircle, PegPane - Jean-Marc
+ConnectionLine, ConnectionPane, GameBoardScene, ErrorMessageHandler - Parminder
+All Network and Serializables packages, Rewritten GameMode, Wrote Status types - Alex
+All files in AI package (AILogic, AIPlayer, AIData, AIHelper) - Matt
+Board, ConnectionHelper, ConnectionLine - Glen
+Settings, FXML and CSS files for Color Screen and Networking Screen - Sara
+FXML and CSS files for GameOptionsScene, ChooseModeScene, ChooseSizeScene, SceneLoader class - Justin
